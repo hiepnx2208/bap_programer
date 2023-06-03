@@ -1,7 +1,7 @@
 var CELL_SIZE = 10;
 var FPS = 10    ;
-var WIDTH = 400;
-var HEIGHT = 400;
+var WIDTH = 500;
+var HEIGHT = 500;
  
 function Game(canvas_id){
     var _pressedKey;
